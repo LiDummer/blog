@@ -1,0 +1,15 @@
+#wcontent .main {
+	padding-top: 5%;
+	color: #fff;
+	font-size: 25px;
+	height: 100%;
+	background: #0066cc;
+}
+#wcontent .main p {
+	margin-bottom: 25px;
+}
+#wcontent .main .Go {
+	position: relative;
+	top: -260px;
+	cursor: pointer;
+}

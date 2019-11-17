@@ -1,0 +1,32 @@
+#wcontent .octance {
+    border-top: 1px solid #0066cc;
+    height: 100%;
+    color: #393939;
+}
+#wcontent .octance .oc-title {
+    height: 50px;
+    line-height: 50px;
+    margin: 10px;
+    text-align: center;
+}
+#wcontent .octance .oc-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+#wcontent .octance .row .l-scroll {
+    padding:35px;
+    border-right: 1px solid #cbcbcb;
+}
+#wcontent .octance .row .col-lg-10{
+    padding: 30px 50px;
+}
+#wcontent .octance .nav-pills{
+    border-radius: 5px;
+}
+#wcontent .octance ul li ul {
+    display: none;
+    margin: 0 20px;
+    font-size: 12px;
+    border-radius: 5px;
+}
